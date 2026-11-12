@@ -1,0 +1,3 @@
+Q1: The file was also deleted along with the container when the the file was written inside container that had no volume was deleted
+Q2: The web service doesn't have exposed ports because all the external traffic has to go through the reverse proxy which keeps the web container isolated from the host machine for better security
+Q3: An image is basically a premade template of system given to you and a container is a running image with configurations given to it
